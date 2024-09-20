@@ -1,0 +1,12 @@
+* {
+  font-family: Arial, Helvetica, Verdana, sans-serif;
+}
+
+.title {
+  color: navy;
+  font-weight: 900;
+}
+.list {
+  list-style: square;
+}
+
