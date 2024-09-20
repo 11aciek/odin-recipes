@@ -1,0 +1,24 @@
+.recipe {
+  width: 80%;
+  margin: auto;
+}
+.description {
+  margin-top: 20px;
+  background-color: lightgrey;
+  padding: 5px;
+  border-radius: 10px;
+  border: grey 0.1rem solid;
+}
+
+.ingredients * {
+  font-family: monospace; 
+  font-size: 1.1em;
+}
+
+.ingredients li > ul {
+  font-size: 0.8em;
+}
+
+.steps li {
+  margin-top: 5px;
+}
