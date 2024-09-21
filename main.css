@@ -10,3 +10,15 @@
   list-style: square;
 }
 
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  color: darkred;
+}
+a:hover {
+  color: green;
+  text-decoration: underline;
+}
+
